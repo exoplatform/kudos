@@ -29,7 +29,7 @@
     <!-- 3rd party libraries versions -->
     <org.exoplatform.platform.version>6.0.x-SNAPSHOT</org.exoplatform.platform.version>
 
-    <org.jackson.version>2.4.0</org.jackson.version>
+    <org.jackson.version>2.10.0</org.jackson.version>
 
     <!-- Used to generate default methods for POJO -->
     <org.lombok.version>1.18.2</org.lombok.version>
