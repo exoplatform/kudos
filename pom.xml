@@ -9,7 +9,7 @@
   </parent>
   <groupId>org.exoplatform.addons.kudos</groupId>
   <artifactId>kudos</artifactId>
-  <version>1.1.2</version>
+  <version>1.1.2-spaces-groups-binding-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>eXo Add-on:: Kudos - Parent POM</name>
   <description>eXo Kudos Addon</description>
@@ -26,7 +26,7 @@
   </scm>
   <properties>
     <!-- 3rd party libraries versions -->
-    <org.exoplatform.platform.version>5.3.2</org.exoplatform.platform.version>
+    <org.exoplatform.platform.version>5.3.2-spaces-groups-binding-SNAPSHOT</org.exoplatform.platform.version>
 
     <!-- Used to generate default methods for POJO -->
     <org.lombok.version>1.18.2</org.lombok.version>
