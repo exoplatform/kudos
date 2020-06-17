@@ -9,7 +9,7 @@
   </parent>
   <groupId>org.exoplatform.addons.kudos</groupId>
   <artifactId>exo-kudos</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.3-patched</version>
   <packaging>pom</packaging>
   <name>eXo Add-on:: eXo Kudos - Parent POM</name>
   <description>eXo Kudos Addon</description>
@@ -26,7 +26,7 @@
   </scm>
   <properties>
     <!-- 3rd party libraries versions -->
-    <org.exoplatform.platform.version>5.2.0-M11</org.exoplatform.platform.version>
+    <org.exoplatform.platform.version>5.2.0</org.exoplatform.platform.version>
 
     <org.jackson.version>2.4.0</org.jackson.version>
 
