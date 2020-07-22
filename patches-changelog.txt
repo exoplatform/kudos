@@ -3,7 +3,7 @@
    # 1.1.4 Patches changelog: 
 
 * 2020-07-22: Patch-5.3.4:1, Author: Dorra Messabi<dmessaabi@exoplatform.com>
-   -  https://github.com/exoplatform/kudos/pull/17
-   -  https://github.com/exoplatform/chat-application/pull/162
+   -  Task-26955 -> https://github.com/exoplatform/kudos/pull/17
+   -  Task-26915 -> https://github.com/exoplatform/chat-application/pull/162
 
 
