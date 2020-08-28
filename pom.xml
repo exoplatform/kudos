@@ -27,7 +27,7 @@
   </scm>
   <properties>
     <!-- 3rd party libraries versions -->
-    <org.exoplatform.platform.version>5.3.x-SNAPSHOT</org.exoplatform.platform.version>
+    <org.exoplatform.platform.version>5.3.5</org.exoplatform.platform.version>
 
     <!-- Used to generate default methods for POJO -->
     <org.lombok.version>1.18.2</org.lombok.version>
